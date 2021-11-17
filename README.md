@@ -2,7 +2,7 @@
 
 This is where I keep my hobby projects and learn from the great Data Science community.
 
-![Pegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,stars)
+![Pegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppooya&hide=contribs,stars)
 
 
 <!--
