@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is where I keep my hobby projects and learn from the great Data Science community.
+
 <!--
 **ppooya/ppooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
