@@ -2,12 +2,12 @@
 
 This is where I keep my hobby projects and learn from the great Data Science community.
 
-![Pegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppooya&show_icons=true&theme=radical&hide=contribs,stars)
+![Pegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegah-pooya&show_icons=true&theme=radical&hide=contribs,stars)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppooya)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pegah-pooya)
 
 <!--
-**ppooya/ppooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pegah-pooya/pegah-pooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
